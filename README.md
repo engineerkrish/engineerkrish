@@ -31,3 +31,8 @@
 > Loading AI Modules...
 > Access Granted ✔
 > Welcome to EngineerKrish System 💀
+
+<p align="center"> <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=00F7FF"/> <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00F7FF"/> <img src="https://img.shields.io/badge/Machine%20Learning-000000?style=for-the-badge&logo=tensorflow&logoColor=00F7FF"/> <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00F7FF"/> </p>
+
+<p align="center"> <a href="https://github.com/engineerkrish"> <img src="https://img.shields.io/badge/🚀_My_Projects-000000?style=for-the-badge&logo=github&logoColor=00F7FF"/> </a> <a href="#"> <img src="https://img.shields.io/badge/💀_Hacker_Mode-000000?style=for-the-badge&logo=hackthebox&logoColor=00F7FF"/> </a> <a href="#"> <img src="https://img.shields.io/badge/⚡_AI_Lab-000000?style=for-the-badge&logo=tensorflow&logoColor=00F7FF"/> </a> </p>
+
